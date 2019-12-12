@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a test to open Service Now in the test environment</description>
+   <name>SNOW Service Now - Test Env Login</name>
+   <tag>SNOW Service Now</tag>
+   <comment></comment>
+   <testCaseGuid>e6adc0c5-56f4-4fdb-b82e-06efe3de749a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>SNOW-Service-Now</name>
+   <tag></tag>
+   <UUID>861fba3b-c001-46b0-967f-bee84ed5f938</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
